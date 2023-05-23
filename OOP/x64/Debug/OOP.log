@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(OOP.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Account.cpp
+  AccountManager.cpp
+C:\Users\ydw20\OneDrive\바탕 화면\OOP_YuDongWoo\OOP\NAccount.h(19,32): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ydw20\OneDrive\바탕 화면\OOP_YuDongWoo\OOP\HCAccount.h(18,32): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Main.cpp
+  String.cpp
+C:\Users\ydw20\OneDrive\바탕 화면\OOP_YuDongWoo\OOP\String.cpp(9,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  OOP.vcxproj -> C:\Users\ydw20\OneDrive\바탕 화면\OOP_YuDongWoo\x64\Debug\OOP_YuDongWoo.exe
